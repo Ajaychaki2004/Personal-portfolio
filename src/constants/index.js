@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+
 
 export const HERO_CONTENT = `I am a passionate and dedicated student with a strong foundation in Backend development, GenAI technologies. 
 With hands-on experience in building intelligent systems, I have developed projects ranging from technical interview training bots to next-gen employment platforms. 
